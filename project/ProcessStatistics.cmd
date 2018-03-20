@@ -1,0 +1,2 @@
+javac ProcessStatistics.java
+java ProcessStatistics
